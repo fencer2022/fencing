@@ -5,13 +5,13 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "e7ec1952-d22d-400f-80f9-4319136d3829"
+            "value": "4db2fc8d-1b9d-4c5c-baa8-450811c443cb"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "repository": "https://github.com/fencer2022/fencing/edit/vless",
+    "repository": "https://github.com/fencer2022/fencing/tree/vless",
     "stack": "container"
 }
